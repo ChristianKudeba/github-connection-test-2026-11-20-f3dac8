@@ -3,7 +3,7 @@
  "packages":
  [{"type": "path",
    "scope": "",
-   "name": "PrincipiaTemplate",
+   "name": "GitHubConnectionTest2026",
    "manifestFile": "lake-manifest.json",
    "inherited": false,
    "dir": "../",
